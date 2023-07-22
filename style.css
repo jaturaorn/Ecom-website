@@ -627,6 +627,11 @@ footer .copyright {
   }
 /* How to make humberger */
 
+  #hero {
+    height: 70vh;
+    padding: 0 80px;
+    background-position: top 30% right 30%;
+  }
 }
 
 /* End media query */
