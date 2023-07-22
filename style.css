@@ -587,6 +587,9 @@ footer .copyright {
 /* Start media query */
 
 @media (max-width: 799px) {
+  .section-p1{
+    padding: 40px 40px;
+  }
   /* How to make humberger */
   #navbar {
     display: flex;
@@ -631,6 +634,14 @@ footer .copyright {
     height: 70vh;
     padding: 0 80px;
     background-position: top 30% right 30%;
+  }
+
+  #feature {
+    justify-content: center;
+  }
+
+  #feature .fe-box {
+    margin: 15px 15px;
   }
 }
 
