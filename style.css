@@ -74,7 +74,7 @@ button.white {
 body {
   width: 100%;
 }
-
+/* Home page */
 /* Header Start */
 
 #header {
@@ -749,3 +749,14 @@ footer .copyright {
 }
 
 /* End Media Query Small Size */
+/* Home page */
+
+/* Shop page */
+
+#page-header {
+  background-image: url("img/banner/b1.webp");
+  width: 100%;
+  height: 40vh;
+}
+
+/* Shop page */
