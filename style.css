@@ -586,7 +586,7 @@ footer .copyright {
 
 /* Start Media Query Medium-Size */
 
-@media (max-width: 799px) {
+@media (max-width: 829px) {
   .section-p1{
     padding: 40px 40px;
   }
