@@ -752,6 +752,7 @@ footer .copyright {
 /* Home page */
 
 /* Shop page */
+/* Start Page-header */
 
 #page-header {
   background-image: url("img/banner/b1.webp");
@@ -769,5 +770,29 @@ footer .copyright {
 #page-header p {
   color: #fff;
 }
+
+/* End Page-header */
+
+/* Start Pagination */
+
+#pagination {
+  text-align: center;
+}
+
+#pagination a {
+  text-decoration: none;
+  background-color: #088178;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+}
+
+#pagination a i{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* End Pagination */
 
 /* Shop page */
