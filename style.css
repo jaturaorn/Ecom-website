@@ -746,9 +746,24 @@ footer .copyright {
     text-align: start;
   }
 
+  /* Start Media Query Small Size Single Product */
+
+  #prodetails {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #prodetails .single-pro-image {
+    width: 100%;
+    margin-right: 0px;
+  }
+
+  #prodetails .single-pro-details {
+    width: 100%;
+  }
+
 }
 
-/* End Media Query Small Size */
 /* Home page */
 
 /* Shop page */
@@ -805,7 +820,7 @@ footer .copyright {
 }
 
 #prodetails .single-pro-image {
-  width: 40%;
+  width: 50%;
   margin-right: 50px;
 }
 
@@ -820,7 +835,7 @@ footer .copyright {
 }
 
 #prodetails .single-pro-details {
-  width: 50%;
+  width: 40%;
   padding-top: 30px;
 }
 
