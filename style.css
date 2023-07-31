@@ -620,6 +620,12 @@ footer .copyright {
     align-items: center;
   }
 
+  #mobile i {
+    color: #1a1a1a;
+    font-size: 24px;
+    padding-left: 20px;
+  }
+
   #close {
     display: initial;
     position: absolute;
@@ -628,6 +634,11 @@ footer .copyright {
     color: #222;
     font-size: 24px;
   }
+
+  #lg-bag {
+    display: none;
+  }
+
 /* How to make humberger */
 
   #hero {
@@ -820,7 +831,7 @@ footer .copyright {
 }
 
 #prodetails .single-pro-image {
-  width: 50%;
+  width: 40%;
   margin-right: 50px;
 }
 
