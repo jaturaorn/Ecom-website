@@ -1252,4 +1252,14 @@ footer .copyright {
   font-size: 13px;
 }
 
+#cart-add {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#coupon {
+  width: 50%;
+}
+
 /* End Cart Page */
