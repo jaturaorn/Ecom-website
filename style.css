@@ -1262,4 +1262,22 @@ footer .copyright {
   width: 50%;
 }
 
+#coupon h3 {
+  padding-bottom: 15px;
+}
+
+#coupon input {
+  padding: 10px 20px;
+  outline: none;
+  width: 60%;
+  margin-right: 10px;
+  border: 1px solid #e2e9e1;
+}
+
+#coupon button {
+  background-color: #088178;
+  color: #fff;
+  padding: 12px 20px;
+}
+
 /* End Cart Page */
